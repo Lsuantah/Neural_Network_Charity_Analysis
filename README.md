@@ -27,18 +27,17 @@ EIN and NAME are identification information and will be removed from the input d
 layer1 = 80 with activation="relu", layer2 = 30 with activation="relu", Outer layer activation = "sigmoid"
 
 * Were you able to achieve the target model performance?
-* 
-No, the target model performance was not achieved because there was a Loss: 0.5573652386665344, Accuracy: 0.7257142663002014
 
+No, the target model performance was not achieved because there was a Loss: 0.5356, Accuracy: 0.7411
 
 * What steps did you take to try and increase model performance?
 
-Additional hidden layer was inputted but it decreased the accuracy. We also increased the number of neurons in one of the hidden layers, but it also showed no improvements in accuracy
+Additional hidden layer was inputted and increased the number of neurons in one of the hidden layers, resulting in increased in accuracy to 80.87%
 
 
 ## Summary
 
-* The model did not reach the target of 75% accuracy and hits a limit of 73% accuracy with few optimization efforts.
+* Optimization improved the model significantly to exceed the target of 75% accuracy.
 
 
 
