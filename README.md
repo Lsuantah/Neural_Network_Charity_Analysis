@@ -38,10 +38,12 @@ Additional hidden layer was inputted but it decreased the accuracy. We also incr
 
 ## Summary
 
-The model did not reach the target of 75% accuracy and hits a limit of 73% accuracy with few optimization efforts.
+* The model did not reach the target of 75% accuracy and hits a limit of 73% accuracy with few optimization efforts.
 
-The classification problem can be resolved using Random Forest Classifier because of the binary classification situation.
 
-* 
+
+* The classification problem can be resolved using Random Forest Classifier because of the binary classification situation.
+
+
 
 
