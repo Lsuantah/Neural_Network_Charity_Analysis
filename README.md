@@ -20,3 +20,28 @@ These features of the model are the following columns:
 
 EIN and NAME are identification information and will be removed from the input data.
 
+## Compiling, Training, and Evaluating the Model
+
+* How many neurons, layers, and activation functions did you select for your neural network model, and why?
+
+layer1 = 80 with activation="relu", layer2 = 30 with activation="relu", Outer layer activation = "sigmoid"
+
+* Were you able to achieve the target model performance?
+* 
+No, the target model performance was not achieved because there was a Loss: 0.5573652386665344, Accuracy: 0.7257142663002014
+
+
+* What steps did you take to try and increase model performance?
+
+Additional hidden layer was inputted but it decreased the accuracy. We also increased the number of neurons in one of the hidden layers, but it also showed no improvements in accuracy
+
+
+## Summary
+
+The model did not reach the target of 75% accuracy and hits a limit of 73% accuracy with few optimization efforts.
+
+The classification problem can be resolved using Random Forest Classifier because of the binary classification situation.
+
+* 
+
+
