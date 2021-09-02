@@ -4,7 +4,6 @@
 
 The objective of the analysis is to run big not for profit dataset using neural network to create a binary classifier that can predict a potential donor recipient who will be successful if funded by the charitable organization, Alphabet Soup. 
 
-
 # Results
 ## Data Preprocessing
 * What variable(s) are considered the target(s) for your model?
