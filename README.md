@@ -38,7 +38,6 @@ Additional hidden layer was inputted and increased the number of neurons in one 
 
 * Optimization improved the model significantly to exceed the target of 75% accuracy.
 
-
 * The classification problem can be resolved using Random Forest Classifier because of the binary classification situation.
 
 
