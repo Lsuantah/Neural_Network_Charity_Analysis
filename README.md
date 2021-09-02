@@ -42,5 +42,3 @@ Additional hidden layer was inputted and increased the number of neurons in one 
 * The classification problem can be resolved using Random Forest Classifier because of the binary classification situation.
 
 
-
-
